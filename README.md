@@ -23,7 +23,7 @@ An e-commerce style shopping cart application built using React, with a separate
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/syedsaied-ui/cartsy.git
+git clone https://github.com/syedsaied-ui/cartsy-shopping-app.git
 ```
 
 ### 2. Install dependencies (Frontend)
