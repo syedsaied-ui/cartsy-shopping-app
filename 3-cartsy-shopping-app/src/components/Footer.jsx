@@ -40,9 +40,7 @@ const Footer = () => {
       </div>
       <hr />
 
-      <div className="copyright">
-        © 2026 www.cartsy.com. All rights reserved.
-      </div>
+      <div className="copyright">© 2026 Cartsy. All rights reserved.</div>
     </footer>
   );
 };
